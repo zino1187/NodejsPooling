@@ -1,0 +1,6 @@
+class StringObj{
+    getStr(){
+        return "batman";    
+    }
+}
+module.exports=StringObj;
